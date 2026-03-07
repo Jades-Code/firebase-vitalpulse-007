@@ -1,0 +1,5 @@
+{
+  "name": "VitalPulse - Health & Weather Monitor",
+  "description": "A comprehensive health and weather monitoring dashboard with real-time sensor data integration from ESP32.",
+  "requestFramePermissions": []
+}
